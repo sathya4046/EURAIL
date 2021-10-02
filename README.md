@@ -1,7 +1,7 @@
 # EURAIL
 **User Guide EURAIL SELENIUM ASSIGNMENT**
 
-Automated the simple usecase of checking out the Adul intercountry mobile pass in interrail.eu website
+Automated the simple usecase of checking out one Adult intercountry mobile pass in interrail.eu website
 
 Tech stack: Java Selenium Log4j Maven
 
